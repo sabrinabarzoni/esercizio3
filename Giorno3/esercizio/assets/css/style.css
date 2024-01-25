@@ -1,0 +1,51 @@
+
+body{
+    text-align: center;
+margin: 0;
+color:black;
+font-family:Georgia ,serif
+}
+
+
+.header {
+
+    text-align: center;
+}
+
+.header p {
+    background-color: #fdfbf1;
+    border-top: 2px solid #fde29e;
+    padding: 4%;
+    color: #004d4c;
+    font-size: large;
+
+}
+
+.header p span {
+    font-weight: bold;
+
+}
+.main {
+    text-align: center;
+}
+.main,
+img {
+    text-align: center;
+    padding: 10%;
+}
+
+h2{
+    text-align: left;
+    border-left: 2px solid #fde29e;
+    padding: 20px;;
+}
+.ingredients ,h3 {
+    text-align: left;
+    padding: 10%;
+    border-bottom: solid rgb(97, 97, 242);
+}
+.author{
+    display:block;
+    color:gray;
+    text-align: center;
+    margin-top: 1rem;
